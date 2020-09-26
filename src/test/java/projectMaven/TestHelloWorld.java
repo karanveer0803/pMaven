@@ -17,7 +17,6 @@ public class TestHelloWorld {
 
 	@Test
 	@Order(1)
-	@Disabled
 	public void bhellow1(){
 System.out.println("hello 1");	
 	}
